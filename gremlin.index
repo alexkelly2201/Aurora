@@ -7,6 +7,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="race-gremlin.xml" url="" />
+		<file name="race-gremlin.xml" url="https://raw.githubusercontent.com/alexkelly2201/Aurora/c4a5cfdb8284a914678522ef4edc529d25c22387/race-gremlin.xml" />
 		</files>
 </index>
