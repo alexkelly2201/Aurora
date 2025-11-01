@@ -5,7 +5,7 @@
         <description>Gremlins!</description>
         <author url="https://www.patreon.com/posts/gremlins-new-5e-55866757">Dungeon Master Tuz</author>
         <update version="0.1.0">
-            <file name="race-gremlin.xml" url="https://github.com/alexkelly2201/Aurora/blob/c4a5cfdb8284a914678522ef4edc529d25c22387/race-gremlin.xml" />
+            <file name="race-gremlin.xml" url="https://raw.githubusercontent.com/alexkelly2201/Aurora/c4a5cfdb8284a914678522ef4edc529d25c22387/race-gremlin.xml" />
         </update>
     </info>
 		

@@ -3,7 +3,7 @@
 	<info>
 		<name>Gremlins!</name>
 		<update version="0.0.2">
-			<file name="gremlin.index" url="" />
+			<file name="gremlin.index" url="https://raw.githubusercontent.com/alexkelly2201/Aurora/refs/heads/main/gremlin.index" />
 		</update>
 	</info>
 	<files>
