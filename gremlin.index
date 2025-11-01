@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Gremlins!</name>
+		<update version="0.0.2">
+			<file name="gremlin.index" url="" />
+		</update>
+	</info>
+	<files>
+		<file name="race-gremlin.xml" url="" />
+		</files>
+</index>
