@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Gremlin</name>
+        <description>Gremlins!</description>
+        <author url="https://www.patreon.com/posts/gremlins-new-5e-55866757">Dungeon Master Tuz</author>
+        <update version="0.1.0">
+            <file name="race-gremlin.xml" url="" />
+        </update>
+    </info>
+		
+	<element name="DM Tuz: Gremlins!" type="Source" source="Core" id="ID_PATREON_DMTUZ_GREM">
+		<description>
+			<p>A once proud race that migrated from their dangerous homelands, now wandering salvagers without a home of their own. The gremlins struggle to establish themselves in the world. </p>
+            <p>These small creatures are no strangers to war and strife. Despite the natural dangers posed by their original homelands, neighboring factions sort to claim their unique resources. Many assumed the gremlins would be wiped out in a few years, but their size and ingenuity proved the world wrong.</p>
+            <p>When nation fought nation on their scarred home, they would stay out of sight, surviving by making a habit of pilfering the many battlefields for material and tools. But the wars would not last. In the end the violence culminated in a cataclysmic event that fully destroyed the Gremlins home and forced them to flee - they have been nomads ever since, spread thin across the world.</p> 
+            <p>Because of their history, Gremlins keep themselves distant from other races. Many might find a gremlin to be distrustful and stand offish, never settling down in other places for long. Despite this the Gremlins share a collective dream of one day having a home that they can call their own once more.</p>
+		</description>
+		<setters>
+			<set name="abbreviation">GREM</set>
+			<set name="url">https://www.patreon.com/posts/gremlins-new-5e-55866757</set>
+			<set name="image"></set>
+			<set name="author" url="https://www.patreon.com/posts/gremlins-new-5e-55866757">DM Tuz</set>
+			<set name="third-party">true</set>
+		</setters>
+	</element>
+
+   <element name="Gremlin" type="Race" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM">
+        <description>
+            <p>A once proud race that migrated from their dangerous homelands, now wandering salvagers without a home of their own. The gremlins struggle to establish themselves in the world. </p>
+            <p>These small creatures are no strangers to war and strife. Despite the natural dangers posed by their original homelands, neighboring factions sort to claim their unique resources. Many assumed the gremlins would be wiped out in a few years, but their size and ingenuity proved the world wrong.</p>
+            <p>When nation fought nation on their scarred home, they would stay out of sight, surviving by making a habit of pilfering the many battlefields for material and tools. But the wars would not last. In the end the violence culminated in a cataclysmic event that fully destroyed the Gremlins home and forced them to flee - they have been nomads ever since, spread thin across the world.</p> 
+            <p>Because of their history, Gremlins keep themselves distant from other races. Many might find a gremlin to be distrustful and stand offish, never settling down in other places for long. Despite this the Gremlins share a collective dream of one day having a home that they can call their own once more.</p>
+            <h4>Invention from Necessity</h4>
+                <p>Because of their past of war and scavenging, many a Gremlins ancestor was exposed to tools they were never meant to use, and grew into a habit of cobbling things not meant to fit together. A talent born from survival for combing and rearranging unlikely material into working tools and inventions. This history of improvisation quickly became a part of Gremlin culture.</p>            
+                <p> These skills have been passed down and finely honed to an almost innate ability. For a Gremlin makes due with the most humble of scraps to great effect. As such, salvaging what other people have deemed unusable has become a great strength, which gained them the unfortunate infamy of being seen as trash diggers and scroungers. Gremlins are often found in derelict sites or trash heaps filled with free material for them to work with.</p>
+            <h4>A Nose for Magic</h4>
+            <p>The ancient ancestors of the Gremlins, distant cousins of the goblins, were curious beings but dull of the mind, barely above common fauna. However, the unique resources of their homelands were magically infused minerals occasionally revealed by the soil and tucked away in crevices. The proto gremlins sometimes came upon these ‘shiny rocks’ and would attempt to consume them. This diet became oddily beneficial to the humble gremlin, and kick started an evolutionary change. They developed magic senses in their nose and taste buds, allowing them to reliably find more precious minerals. This ability to sense magic also helped them avoid magical threats that were innate to their homelands. Over time, the ancient gremlins evolved into the smart and innovative creatures they are today. </p>
+            <h4>Discordant Penchant</h4>
+            <p>Gremlins have never been strangers to the chaos but there are some of them that actively seek it. This can vary from harmless mischief to outright sabotage. Though their actions do not help their poor reputation, Gremlins find their actions more thrill and fun seeking then bad, looking to relieve stress and enjoy the world in their own chaotic way. This does not mean their actions are always in jest however, as they are also more likely to seek retribution to those who wrong them, or remind them of the forces that ruined their homelands. Be it for good or evil, anarchy reigns.</p>
+			<h4>Personality</h4>
+			<p>The Gremlins are not known to be very friendly with other races. Distrusting, standoffish, socially inept, If they are not traveling in groups with other Gremlins, they stick to themselves as hermits. Even if several Gremlins occupy the same community, they will often compete with each other for resources. It is hard to gain trust, but once the trust is formed with a Gremlin it is an unbreakable lifelong bond. While they are not emotionally intelligent, their bonds are deep and genuine. But do not expect them to be vocally sentimental, actions mean more than words.</p>
+            <h4>Physiology</h4>
+			<p>The gremlin shares ancestry with the common goblin. But with the exception of their diminutive size and large ears, they have little in common. Gremlins are covered in short-thin fur, commonly blue-adjacent with green or purple hues in the spectrum.They have a prehensile thin long thin tail with a fur-tip, and large almost cat-like eyes.</p>
+            <h4>Gremlin Names</h4>
+            <p>Gremlin names are short and snappy to keep them efficient. No one has time for a multi-syllable name. They also like using names based on tools or simple onomatopeyas. Last names are not common as gremlins usually travel in small groups. But they might further identify themselves by group, which they commonly call ‘crews’.</p>
+			<ul class="unstyled">
+				<li><strong>Female Names:</strong> Asch, Brix, Calli, Dyna, Effy, Fuse, Geema, Harpyr, Impa, Joell, Kindle, Lokke, Monkee, Nails, Ovah, Ply, Que, Rosi, Snips, Tility, Unnu, Vel, Wylda, Xera, Yeet, Zinc</li>
+			</ul>
+            <ul class="unstyled">
+				<li><strong>Male Names:</strong> Arty, Bolt, Clank, Dabb, Edge, Fogger, Gurt, Hux, Iggy, Jakk, Knievel, Linx, Molto, Nyle, Ozzy, Poik, Qolt, Ratchet, Scruff, Torb, Urzok, Vence, Wyse, Xeff, Ygor, Zane</li>
+			</ul>
+
+            <h4>Gremlin Traits</h4>
+            <p>As a gremlin you possess innate abilities that helped your ancestors flourish and ensured your continued survival after the destruction of your homelands.</p>
+            <p class="indent"><b><i>Ability Score Increase. </i></b>. Your Dexterity score and Intelligence scores each increase by 1. </p>
+            <p class="indent"><b><i>Age. </i></b>. Gremlins reach adulthood around age 8. They rarely live to past 60 due to external circumstances, but naturally they can live longer than 200 years.</p>
+            <p class="indent"><b><i>Alignment. </i></b>Gremlins are inclined to lean towards chaotic alignments, due to their nomadic nature and their discordant penchant.</p>
+            <p class="indent"><b><i>Size. </i></b>Gremlins grow up to 3 feet tall. Your size is small.</p>
+            <p class="indent"><b><i>Speed. </i></b>Your base walking speed is 30 feet.</p>
+            <p class="indent"><b><i>Gadgeteer. </i></b>You gain proficiency with a tool of your choice.</p>
+            <p class="indent"><b><i>Magic Sense. </i></b>You are aware if a magic item, or a magical effect is within 30 ft. of yourself by smell and you can determine if an item is magical by smell and taste. You can spend 10 minutes interacting and handling an unidentified magic item and learn its properties, how to use it, and if it requires attunement.</p>
+            <p class="indent"><b><i>Inventive Mind. </i></b>. You can spend 1 minute of uninterrupted work to create an improvised artisan tool that is not alchemist’s supplies, or set of thieve’s tools. To do so, you must have access to material, such as scrap metal and bones. The tool holds together for one hour or until used, after which the tool will break and becomes unusable. </p>
+            <p class="indent"><b><i>Philosophy. </i></b> Different schools of mind on how to make it are found among Gremlins across the world. Each of these philosophies describe how you as a Gremlin carve out a path for yourself in this world. Choose one of the following: Ingenuity, or Trickery.</p>
+            <p class="indent"><b><i>Languages. </i></b>You can speak, read, and write Common, Goblin, and one additional language of your choice. It is not uncommon for Gremlins pick up different languages as they travel.</p>
+        </description>
+        <sheet display="false" />
+        <setters>
+			<set name="names" type="nickname"> </set>
+			<set name="names-format">{{nickname}}</set>
+            <set name="age">8-200</set>
+            <set name="alignment">Chaotic</set>
+            <set name="height" modifier="2d8">3'0"</set>
+		</setters>
+        <rules>
+            <stat name="dexterity" value="1" />
+            <stat name="intelligence" value="1" />
+            <grant type="Size" id="ID_SIZE_SMALL" />
+            <stat name="innate speed" value="30" bonus="base" />
+            <grant type="Racial Trait" id="ID_PATREON_DMTUZ_GREM_RACIAL_TRAIT_GADGETEER" />
+            <grant type="Racial Trait" id="ID_PATREON_DMTUZ_GREM_RACIAL_TRAIT_MAGIC_SENSE" />
+            <grant type="Racial Trait" id="ID_PATREON_DMTUZ_GREM_RACIAL_TRAIT_INV_MIND" />
+            <grant type="Racial Trait" id="ID_PATREON_DMTUZ_GREM_RACIAL_TRAIT_PHILOSOPHY" />
+            <grant type="Language" id="ID_LANGUAGE_COMMON" />
+            <grant type="Language" id="ID_LANGUAGE_GOBLIN" />
+            <select type="Language" name="Language (Gremlin)" supports="" />
+        </rules>
+    </element>
+    <element name="Gadgeteer" type="Racial Trait" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_RACIAL_TRAIT_GADGETEER">
+        <description>
+			<p>You gain proficiency with a tool of your choice.</p>
+        </description>
+        <sheet display="false"/>
+	    <rules>
+            <select type="Proficiency" name="Tool Proficiency, Gadgeteer" supports="Tool" /> 
+	    </rules>
+    </element>
+    
+    <element name="Magic Sense" type="Racial Trait" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_RACIAL_TRAIT_MAGIC_SENSE">
+        <description>
+            <p>You are aware if a magic item, or a magical effect is within 30 ft. of yourself by smell and you can determine if an item is magical by smell and taste. You can spend 10 minutes interacting and handling an unidentified magic item and learn its properties, how to use it, and if it requires attunement.</p>
+        </description>
+        <sheet>
+            <description> You are aware if a magic item, or a magical effect is within 30 ft. of yourself by smell and you can determine if an item is magical by smell and taste. You can spend 10 minutes interacting and handling an unidentified magic item and learn its properties, how to use it, and if it requires attunement.</description>
+        </sheet>
+    </element>
+    <element name="Inventive Mind" type="Racial Trait" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_RACIAL_TRAIT_INV_MIND">
+        <description>
+            <p>You can spend 1 minute of uninterrupted work to create an improvised artisan tool that is not alchemist’s supplies, or set of thieve’s tools. To do so, you must have access to material, such as scrap metal and bones. The tool holds together for one hour or until used, after which the tool will break and becomes unusable.</p>
+        </description>
+        <sheet>
+            <description>Spend 10 minutes crafting a tool or piece of adventuring gear worth 30GP or less using materials available (per GM discretion) in your surroundings. The item is completely functional, but tools or consumables will break on their first use. Otherwise, the item will fall apart after 1 hour.</description>
+        </sheet>
+    </element>
+
+<element name="Survival Philosophy" type="Racial Trait" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_RACIAL_TRAIT_PHILOSOPHY">
+        <description>
+            <p>Different schools of mind on how to make it are found among Gremlins across the world. Each of these philosophies discribe how you as a Gremlin carve out a path for yourself in this world. Choose one of the following; Ingenuity or Trickery.</p>
+        </description>
+        <sheet display="false"/>
+        <rules>
+            <select type="Sub Race" name="Gremlin Philosophy" supports="Gremlin" />
+        </rules>
+    </element>
+
+    <!-- Ingenuity -->
+	<element name="Gremlin Philosophy: Ingenuity" type="Sub Race" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_SUB_RACE_Ingenuity">
+		<supports>Gremlin</supports>
+		<description>
+			<p>You prefer to use your intelligence for problem solving, being convinced that the right idea is the key to any issue. Occasionally you show unrivaled moments of inventiveness and critical thinking capabilities thanks to your finely honed mind.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Intelligence score increases by 1.</p>
+			<p class="indent"><strong><em>Booksmart.</em></strong> . You are proficient in one of the following skills: Arcana, History, Investigation.</p>
+			<p class="indent"><strong><em>Moment of Ingenuity.</em></strong> When push comes to shove your mind works overtime to find a solution for your current predicament. When you fail an attack roll, ability check, or saving throw, you can add your proficiency bonus to the result, which may cause the roll to become a success. Once you use this feature, you can’t use it again until you have finished a short or long rest.</p>
+            <p class="indent"><strong><em>Brilliant Utilisation.</em></strong> When using a tool you can make an Intelligence check in place of another ability score for any task.</p>
+             
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="intelligence" value="1" supports="ID_PATREON_DMTUZ_GREM_INGENUITY_INTELLIGENCE" />
+            <select type="Proficiency" name="Skill Proficiency, Booksmart" supports="ID_PROFICIENCY_SKILL_ARCANA|ID_PROFICIENCY_SKILL_HISTORY|ID_PROFICIENCY_SKILL_INVESTIGATION"/>
+            <grant type="Action" id="ID_PATREON_DMTUZ_GREM_INGENUITY_MOMENT_OF_INGENUITY" />
+            <grant type="Action" id="ID_PATREON_DMTUZ_GREM_INGENUITY_BRILLIANT_UTILISATION" />
+		</rules>
+	</element>
+
+    <element name="Moment of Ingenuity" type="Racial Trait" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_INGENUITY_MOMENT_OF_INGENUITY">
+        <description>
+            <p>When push comes to shove, your mind works overtime to find a solution for your current predicament. When you fail an attack roll, ability check, or saving throw, you can add your proficiency bonus to the result, which may cause the roll to become a success. Once you use this feature, you can’t use it again until you have finished a short or long rest.</p>
+        </description>
+        <sheet action="Special" usage="1/Short Rest">
+            <description>When you fail an attack roll, ability check, or saving throw, you can add your proficiency bonus to the result. Once you use this feature, you can’t use it again until you have finished a short or long rest.</description>
+        </sheet>
+    </element>
+
+    <element name="Brilliant Utilisation" type="Racial Trait" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_INGENUITY_BRILLIANT_UTILISATION">
+        <description>
+            <p>When using a tool you can make an Intelligence check in place of another ability score for any task.</p>
+        </description>
+        <sheet>
+            <description>When using a tool you can make an Intelligence check in place of another ability score for any task.</description>
+        </sheet>
+    </element>
+
+    <!-- Trickery -->
+	<element name="Gremlin Philosophy: Trickery" type="Sub Race" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_SUB_RACE_TRICKERY">
+		<supports>Gremlin</supports>
+		<description>
+			<p>You have chosen a more anarchic approach to living by creating opportunities via the foolishness and downfall of others. Daring and bold, you usually target powerful forces for bigger rewards. There is little satisfaction or benefit in targeting the already downtrodden.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 1.</p>
+			<p class="indent"><strong><em>Cunning.</em></strong> . You are proficient in one of the following skills: Acrobatics, Deception, Sleight of Hand, Stealth.</p>
+			<p class="indent"><strong><em>Scram.</em></strong> When you fail a Dexterity (Sleight of Hand) check, a creature makes a successful Wisdom (Perception) check to detect you, or you fail a Charisma (Deception) check to deceive another creature, you can use a reaction to move up to your speed without provoking opportunity attacks. To use this trait, you must see the creature when it detects you or sees through your deception.</p>
+            <p class="indent"><strong><em>Throwing Arm.</em></strong>  You are proficient with thrown improvised weapons and if the improvised weapon weighs 1 lb. or less, you treat the weapon as if it has the finesse trait.</p>    
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="dexterity" value="1" supports="ID_PATREON_DMTUZ_GREM_TRICKERY_DEXTERITY" />
+            <select type="Proficiency" name="Skill Proficiency, Cunning" supports="ID_PROFICIENCY_SKILL_ACROBATICS|ID_PROFICIENCY_SKILL_DECEPTION|ID_PROFICIENCY_SKILL_SLEIGHTOFHAND|ID_PROFICIENCY_SKILL_STEALTH"/>
+            <grant type="Reaction" id="ID_PATREON_DMTUZ_GREM_TRICKERY_SCRAM" />
+            <grant type="Proficiency" id="ID_PATREON_DMTUZ_GREM_TRICKERY_THROWING_ARM" />
+		</rules>
+            </element>
+
+    <element name="Proficiency with Thrown Improvised Weapons" type="Racial Trait" source="DM Tuz: Gremlins!"             id="ID_PROFICIENCY_WEAPON_THROWN_IMPROVISED">
+        <description>
+            <p>You are proficient with thrown improvised weapons and if the improvised weapon weighs 1 lb. or less, you treat the weapon as if it has the finesse trait.</p>
+        </description>
+        <sheet>
+            <description>You are proficient with thrown improvised weapons and if the improvised weapon weighs 1 lb. or less, you treat the weapon as if it has the finesse trait.</description>
+        </sheet>
+        <rules>
+            <grant type="Trait" id="ID_PATREON_DMTUZ_GREM_TRICKERY_THROWING_ARM" />
+        </rules>
+    </element>
+
+    <element name="Scram" type="Racial Trait" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_TRICKERY_SCRAM">
+        <description>
+            <p>When you fail a Dexterity (Sleight of Hand) check, a creature makes a successful Wisdom (Perception) check to detect you, or you fail a Charisma (Deception) check to deceive another creature, you can use a reaction to move up to your speed without provoking opportunity attacks. To use this trait, you must see the creature when it detects you or sees through your deception.</p>
+        </description>
+        <sheet action="Reaction">
+            <description>When you fail a Dexterity (Sleight of Hand) check, a creature makes a successful Wisdom (Perception) check to detect you, or you fail a Charisma (Deception) check to deceive another creature, you can use a reaction to move up to your speed without provoking opportunity attacks. To use this trait, you must see the creature when it detects you or sees through your deception.</description>
+        </sheet>
+	</element>
+
+    <element name="Throwing Arm" type="Racial Trait" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_TRICKERY_THROWING_ARM">
+        <description>
+            <p>You are proficient with thrown improvised weapons and if the improvised weapon weighs 1 lb. or less, you treat the weapon as if it has the finesse trait.</p>
+        </description>
+        <sheet>
+            <description>You are proficient with thrown improvised weapons and if the improvised weapon weighs 1 lb. or less, you treat the weapon as if it has the finesse trait.</description>
+        </sheet>
+    </element>
+    <element name="Escape Artist" type="Feat" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_FEAT_ESCAPE_ARTIST">
+        <prerequisite>Gremlin Philosophy: Trickery, Dexterity 13 or higher</prerequisite>
+        <requirements>ID_PATREON_DMTUZ_GREM_SUB_RACE_TRICKERY,[dex:13]</requirements>
+        <description>
+            <p><i>Prerequisite: Gremlin Philosophy: Trickery, Dexterity 13 or higher</i></p>
+            <p>Staying out of harm’s way is as natural to you as breathing and it is impossible to pin you down. You gain the following benefits:</p>
+            <ul class="unstyled">
+                <li><b>Ability Score Increase.</b> Your Dexterity score increases by 1, to a maximum of 20.</li>
+                <li><b>Escape Artist.</b> When you become grappled or restrained, you can use a reaction to attempt to escape if the effect allows to escape with a successful ability check.</li>
+                <li><b>Dexterous Escape.</b> When an effect allows you to make a Strength check to escape a grapple or restraint effect, you can use your Dexterity instead. Additionally you add your proficiency modifier to any check to escape a grapple or restraint.</li>
+                <li><b>Slip Through.</b> You can move through spaces of creatures one size larger than yourself.</li>         
+            </ul>
+        </description>
+        <sheet>
+            <p>Staying out of harm’s way is as natural to you as breathing and it is impossible to pin you down. You gain the following benefits:</p>
+            <ul class="unstyled">
+                <li> When you become grappled or restrained, you can use a reaction to attempt to escape if the effect allows to escape with a successful ability check.</li>
+                <li> When an effect allows you to make a Strength check to escape a grapple or restraint effect, you can use your Dexterity instead. Additionally you add your proficiency modifier to any check to escape a grapple or restraint.</li>
+                <li>You can move through spaces of creatures one size larger than yourself.</li>
+            </ul>
+        </sheet>
+        <rules>
+            <stat name="dexterity" value="1" supports="ID_PATREON_DMTUZ_GREM_FEAT_ESCAPE_ARTIST_DEXTERITY" />
+            <grant type="Reaction" id="ID_PATREON_DMTUZ_GREM_FEAT_ESCAPE_ARTIST_ESCAPE_ARTIST" />
+            <grant type="Action" id="ID_PATREON_DMTUZ_GREM_FEAT_ESCAPE_ARTIST_DEXTEROUS_ESCAPE" />
+            <grant type="Action" id="ID_PATREON_DMTUZ_GREM_FEAT_ESCAPE_ARTIST_SLIP_THROUGH" />
+        </rules>
+    </element> 
+    <element name="Escape Artist" type="Action" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_FEAT_ESCAPE_ARTIST_ESCAPE_ARTIST">
+        <description>
+            <p>When you become grappled or restrained, you can use a reaction to attempt to escape if the effect allows to escape with a successful ability check.</p>
+        </description>
+        <sheet action="Reaction">
+            <description>When you become grappled or restrained, you can use a reaction to attempt to escape if the effect allows to escape with a successful ability check.</description>
+        </sheet>
+    </element>
+    <element name="Dexterous Escape" type="Action" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_FEAT_ESCAPE_ARTIST_DEXTEROUS_ESCAPE">
+        <description>
+            <p>When an effect allows you to make a Strength check to escape a grapple or restraint effect, you can use your Dexterity instead. Additionally you add your proficiency modifier to any check to escape a grapple or restraint.</p>
+        </description>
+        <sheet action="Action">
+            <description>When an effect allows you to make a Strength check to escape a grapple or restraint effect, you can use your Dexterity instead. Additionally you add your proficiency modifier to any check to escape a grapple or restraint.</description>
+        </sheet>
+    </element>
+    <element name="Slip Through" type="Action" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_FEAT_ESCAPE_ARTIST_SLIP_THROUGH">
+        <description>
+            <p>You can move through spaces of creatures one size larger than yourself.</p>
+        </description>
+        <sheet action="Action">
+            <description>You can move through spaces of creatures one size larger than yourself.</description>
+        </sheet>
+    </element>
+     <element name="Wound Up" type="Feat" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_FEAT_WOUND_UP">
+        <prerequisite>Gremlin</prerequisite>
+        <requirements>ID_PATREON_DMTUZ_GREM</requirements>
+        <description>
+            <p><i>Prerequisite: Gremlin</i></p>
+            <p>Your companions might call you jumpy or twitchy, you prefer calling yourself always prepared. At the slightest sign of trouble, you are ready for action. You gain the following benefits:</p>
+            <ul class="unstyled">
+                <li>When you roll for initiative you can use a reaction to move up to half of your speed, draw up to two weapons or objects, or don a shield.</li>
+                <li>During the first round of combat your movement speed is increased by 10 ft. and you have advantage on all Dexterity saving throws.</li>
+                <li>When you are reduced to 0 hit points you can use a reaction to move up to your speed without provoking opportunity attacks before you fall unconcious. </li>        
+            </ul>
+        </description>
+        <sheet>
+            <p>Your companions might call you jumpy or twitchy, you prefer calling yourself always prepared. At the slightest sign of trouble, you are ready for action. You gain the following benefits:</p>
+            <ul class="unstyled">
+                <li>When you roll for initiative you can use a reaction to move up to half of your speed, draw up to two weapons or objects, or don a shield.</li>
+                <li>During the first round of combat your movement speed is increased by 10 ft. and you have advantage on all Dexterity saving throws.</li>
+                <li>When you are reduced to 0 hit points you can use a reaction to move up to your speed without provoking opportunity attacks before you fall unconcious. </li>        
+            </ul>
+        </sheet>
+        <rules>
+            <grant type="Reaction" id="ID_PATREON_DMTUZ_GREM_FEAT_WOUND_UP_INITIATIVE_MOVE" />
+            <grant type="Reaction" id="ID_PATREON_DMTUZ_GREM_FEAT_WOUND_UP_ZERO_HP_MOVE" />
+        </rules>
+    </element> 
+    <element name="Initiative Move" type="Reaction" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_FEAT_WOUND_UP_INITIATIVE_MOVE">
+        <description>
+            <p>When you roll for initiative you can use a reaction to move up to half of your speed, draw up to two weapons or objects, or don a shield.</p>
+        </description>
+        <sheet action="Reaction">
+            <description>When you roll for initiative you can use a reaction to move up to half of your speed, draw up to two weapons or objects, or don a shield.</description>
+        </sheet>
+    </element>
+    <element name="Zero HP Move" type="Reaction" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_FEAT_WOUND_UP_ZERO_HP_MOVE">
+        <description>
+            <p>When you are reduced to 0 hit points you can use a reaction to move up to your speed without provoking opportunity attacks before you fall unconcious. </p>
+        </description>
+        <sheet action="Reaction">
+            <description>When you are reduced to 0 hit points you can use a reaction to move up to your speed without provoking opportunity attacks before you fall unconcious. </description>
+        </sheet>
+    </element> 
+    <element name="Jury Rig" type="Feat" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_FEAT_JURY_RIG">
+        <prerequisite>Gremlin, Proficiency with tinker tools</prerequisite>
+        <requirements>ID_PATREON_DMTUZ_GREM, ID_PROFICIENCY_TOOL_PROFICIENCY_TINKERS_TOOLS</requirements>
+        <description>
+            <p>Small modifications to equipment go a far way. An additional blade here, an additional piece of padding there, and there is nothing that you can’t handle. You gain the following benefit: </p>
+            <ul class="unstyled">
+                <li>Over the course of a short or long rest you can use your tinker tools to improve a suit of nonmagical armor, a nonmagical shield, or a nonmagical weapon. At the end of the rest the piece of equipment is improved. If it is a piece of armor, whenever the creature takes bludgeoning, piercing, or slashing damage the damage is reduced by 2. If it is a shield it grants an additional +1 bonus to AC. If it is a weapon it has a +1 bonus to attack and damage. A piece of equipment can only have one improvement at once. The improvement lasts until the piece of equipment was either extensively used (DM’s discretion), or until the end of the next combat.</li> 
+            </ul>
+        </description>
+        <sheet>
+            <p>
+                Over the course of a short or long rest you can use your tinker tools to improve a suit of nonmagical armor, a nonmagical shield, or a nonmagical weapon. At the end of the rest the piece of equipment is improved. If it is a piece of armor, whenever the creature takes bludgeoning, piercing, or slashing damage the damage is reduced by 2. If it is a shield it grants an additional +1 bonus to AC. If it is a weapon it has a +1 bonus to attack and damage. A piece of equipment can only have one improvement at once. The improvement lasts until the piece of equipment was either extensively used (DM’s discretion), or until the end of the next combat.
+            </p>
+        </sheet>
+    </element> 
+    <element name="Tactial Genius" type="Feat" source="DM Tuz: Gremlins!" id="ID_PATREON_DMTUZ_GREM_FEAT_TACTICAL_GENIUS">
+        <prerequisite>Gremlin Philosophy: Ingenuity, Intelligence 13 or higher</prerequisite>
+        <requirements>ID_PATREON_DMTUZ_GREM_SUB_RACE_Ingenuity,[int:13]</requirements>
+        <description>
+            <p><i>Prerequisite: Gremlin Philosophy: Ingenuity, Intelligence 13 or higher</i></p>
+            <p> For you, combat has become nothing more than a complex puzzle for you to solve. You gain the following benefits: </p>
+            <ul class="unstyled">
+                <li>Your Intelligence score increases by 1, to a maximum of 20.</li>
+                <li>When you roll initiative you can use your Intelligence modifier in place of your Dexterity modifier.</li>
+                <li>You can use your Moment of Ingenuity feature to grant an allied creature that you can see within 30 ft. of yourself a bonus equal to your proficiency bonus to a failed ability check, attack roll, or saving throw, potentially turning a failure into a success. To do so you must share at least one language with the creature and it must be able to hear you.</li>         
+            </ul>
+        </description>
+        <sheet>
+            <ul class="unstyled">
+                <li> When you roll initiative you can use your Intelligence modifier in place of your Dexterity modifier.</li>
+                <li> You can use your Moment of Ingenuity feature to grant an allied creature that you can see within 30 ft. of yourself a bonus equal to your proficiency bonus to a failed ability check, attack roll, or saving throw, potentially turning a failure into a success. To do so you must share at least one language with the creature and it must be able to hear you.</li>         
+            </ul>
+        </sheet>
+        <rules>
+            <stat name="intelligence" value="1" supports="ID_PATREON_DMTUZ_GREM_FEAT_TACTICAL_GENIUS_INTELLIGENCE" />
+        </rules>
+    </element>
+
+
+</elements>
