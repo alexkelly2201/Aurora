@@ -5,11 +5,11 @@
         <description>Gremlins!</description>
         <author url="https://www.patreon.com/posts/gremlins-new-5e-55866757">Dungeon Master Tuz</author>
         <update version="0.1.0">
-            <file name="race-gremlin.xml" url="" />
+            <file name="race-gremlin.xml" url="https://github.com/alexkelly2201/Aurora/blob/c4a5cfdb8284a914678522ef4edc529d25c22387/race-gremlin.xml" />
         </update>
     </info>
 		
-	<element name="DM Tuz: Gremlins!" type="Source" source="Core" id="ID_PATREON_DMTUZ_GREM">
+	<element name="DM Tuz: Gremlins!" type="Source" source="DM Tuz" id="ID_PATREON_DMTUZ_GREM">
 		<description>
 			<p>A once proud race that migrated from their dangerous homelands, now wandering salvagers without a home of their own. The gremlins struggle to establish themselves in the world. </p>
             <p>These small creatures are no strangers to war and strife. Despite the natural dangers posed by their original homelands, neighboring factions sort to claim their unique resources. Many assumed the gremlins would be wiped out in a few years, but their size and ingenuity proved the world wrong.</p>
